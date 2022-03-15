@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1647367554,,"wq"
+|2,0,1647368176,,"wq"
+:q!
+|2,0,1647367797,,"q!"
 :w
 |2,0,1647367549,,"w"
 
@@ -27,14 +29,69 @@
 # Registers:
 
 # File marks:
-'0  1  18  ~/sample.txt
-|4,48,1,18,1647367554,"~/sample.txt"
+'0  1  16  ~/textfile.txt
+|4,48,1,16,1647368177,"~/textfile.txt"
+'1  5  29  ~/.gitconfig
+|4,49,5,29,1647367797,"~/.gitconfig"
+'2  5  29  ~/.gitconfig
+|4,50,5,29,1647367740,"~/.gitconfig"
+'3  1  18  ~/sample.txt
+|4,51,1,18,1647367554,"~/sample.txt"
 
 # Jumplist (newest first):
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  5  29  ~/.gitconfig
+|4,39,5,29,1647367797,"~/.gitconfig"
+-'  5  29  ~/.gitconfig
+|4,39,5,29,1647367797,"~/.gitconfig"
+-'  5  29  ~/.gitconfig
+|4,39,5,29,1647367740,"~/.gitconfig"
+-'  5  29  ~/.gitconfig
+|4,39,5,29,1647367740,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1647367685,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1647367685,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1647367685,"~/.gitconfig"
+-'  1  0  ~/.gitconfig
+|4,39,1,0,1647367685,"~/.gitconfig"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1647367554,"~/sample.txt"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1647367554,"~/sample.txt"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1647367554,"~/sample.txt"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1647367554,"~/sample.txt"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1647367554,"~/sample.txt"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1647367554,"~/sample.txt"
+-'  1  18  ~/sample.txt
+|4,39,1,18,1647367554,"~/sample.txt"
 -'  1  18  ~/sample.txt
 |4,39,1,18,1647367554,"~/sample.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/textfile.txt
+	*	1647368174	0
+	"	1	16
+	^	1	17
+	.	1	16
+	+	1	16
+
+> ~/.gitconfig
+	*	1647367786	0
+	"	5	29
+	^	5	30
+	.	5	29
+	+	4	0
+	+	5	0
+	+	4	20
+	+	5	29
 
 > ~/sample.txt
 	*	1647367549	0
