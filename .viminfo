@@ -12,9 +12,13 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1647368176,,"wq"
+|2,0,1647372242,,"wq"
 :q!
-|2,0,1647367797,,"q!"
+|2,0,1647369168,,"q!"
+:q
+|2,0,1647368964,,"q"
+:w!
+|2,0,1647368921,,"w!"
 :w
 |2,0,1647367549,,"w"
 
@@ -29,52 +33,267 @@
 # Registers:
 
 # File marks:
-'0  1  16  ~/textfile.txt
-|4,48,1,16,1647368177,"~/textfile.txt"
-'1  5  29  ~/.gitconfig
-|4,49,5,29,1647367797,"~/.gitconfig"
-'2  5  29  ~/.gitconfig
-|4,50,5,29,1647367740,"~/.gitconfig"
-'3  1  18  ~/sample.txt
-|4,51,1,18,1647367554,"~/sample.txt"
+'0  1  18  ~/future.txt
+|4,48,1,18,1647372242,"~/future.txt"
+'1  1  12  /home/sample.txt
+|4,49,1,12,1647369168,"/home/sample.txt"
+'2  1  13  /home/file.txt
+|4,50,1,13,1647369067,"/home/file.txt"
+'3  1  15  /home/file1.log
+|4,51,1,15,1647369020,"/home/file1.log"
+'4  2  0  /home/myfile.log
+|4,52,2,0,1647368972,"/home/myfile.log"
+'5  1  15  /home/myfile.log
+|4,53,1,15,1647368840,"/home/myfile.log"
+'6  1  15  /home/myfile.log
+|4,54,1,15,1647368840,"/home/myfile.log"
+'7  1  16  ~/textfile.txt
+|4,55,1,16,1647368177,"~/textfile.txt"
+'8  5  29  ~/.gitconfig
+|4,56,5,29,1647367797,"~/.gitconfig"
+'9  5  29  ~/.gitconfig
+|4,57,5,29,1647367740,"~/.gitconfig"
 
 # Jumplist (newest first):
+-'  1  18  ~/future.txt
+|4,39,1,18,1647372242,"~/future.txt"
+-'  1  12  /home/sample.txt
+|4,39,1,12,1647369168,"/home/sample.txt"
+-'  1  12  /home/sample.txt
+|4,39,1,12,1647369168,"/home/sample.txt"
+-'  1  13  /home/file.txt
+|4,39,1,13,1647369067,"/home/file.txt"
+-'  1  13  /home/file.txt
+|4,39,1,13,1647369067,"/home/file.txt"
+-'  1  13  /home/file.txt
+|4,39,1,13,1647369067,"/home/file.txt"
+-'  1  13  /home/file.txt
+|4,39,1,13,1647369067,"/home/file.txt"
+-'  1  15  /home/file1.log
+|4,39,1,15,1647369020,"/home/file1.log"
+-'  1  15  /home/file1.log
+|4,39,1,15,1647369020,"/home/file1.log"
+-'  1  15  /home/file1.log
+|4,39,1,15,1647369020,"/home/file1.log"
+-'  1  15  /home/file1.log
+|4,39,1,15,1647369020,"/home/file1.log"
+-'  1  15  /home/file1.log
+|4,39,1,15,1647369020,"/home/file1.log"
+-'  1  15  /home/file1.log
+|4,39,1,15,1647369020,"/home/file1.log"
+-'  1  15  /home/file1.log
+|4,39,1,15,1647369020,"/home/file1.log"
+-'  1  15  /home/file1.log
+|4,39,1,15,1647369020,"/home/file1.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  2  0  /home/myfile.log
+|4,39,2,0,1647368972,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  0  /home/myfile.log
+|4,39,1,0,1647368847,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
+-'  1  15  /home/myfile.log
+|4,39,1,15,1647368840,"/home/myfile.log"
 -'  1  16  ~/textfile.txt
 |4,39,1,16,1647368177,"~/textfile.txt"
--'  5  29  ~/.gitconfig
-|4,39,5,29,1647367797,"~/.gitconfig"
--'  5  29  ~/.gitconfig
-|4,39,5,29,1647367797,"~/.gitconfig"
--'  5  29  ~/.gitconfig
-|4,39,5,29,1647367740,"~/.gitconfig"
--'  5  29  ~/.gitconfig
-|4,39,5,29,1647367740,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1647367685,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1647367685,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1647367685,"~/.gitconfig"
--'  1  0  ~/.gitconfig
-|4,39,1,0,1647367685,"~/.gitconfig"
--'  1  18  ~/sample.txt
-|4,39,1,18,1647367554,"~/sample.txt"
--'  1  18  ~/sample.txt
-|4,39,1,18,1647367554,"~/sample.txt"
--'  1  18  ~/sample.txt
-|4,39,1,18,1647367554,"~/sample.txt"
--'  1  18  ~/sample.txt
-|4,39,1,18,1647367554,"~/sample.txt"
--'  1  18  ~/sample.txt
-|4,39,1,18,1647367554,"~/sample.txt"
--'  1  18  ~/sample.txt
-|4,39,1,18,1647367554,"~/sample.txt"
--'  1  18  ~/sample.txt
-|4,39,1,18,1647367554,"~/sample.txt"
--'  1  18  ~/sample.txt
-|4,39,1,18,1647367554,"~/sample.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
+-'  1  16  ~/textfile.txt
+|4,39,1,16,1647368177,"~/textfile.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/future.txt
+	*	1647372239	0
+	"	1	18
+	^	1	19
+	.	1	18
+	+	1	18
+
+> /home/sample.txt
+	*	1647369155	0
+	"	1	12
+	^	1	13
+	.	1	12
+	+	1	12
+
+> /home/file.txt
+	*	1647369055	0
+	"	1	13
+	^	1	14
+	.	1	13
+	+	1	13
+
+> /home/file1.log
+	*	1647369010	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+
+> /home/myfile.log
+	*	1647368967	0
+	"	2	0
+	^	2	6
+	.	2	4
+	+	1	15
+	+	1	16
+	+	2	4
 
 > ~/textfile.txt
 	*	1647368174	0
